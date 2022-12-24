@@ -27,7 +27,7 @@ This is the complete source code for the comment system in PHP with MYSQL databa
 2.	Extract zip file and move on your server . You can execute it on your local server or live server.<br> 
 3.	Import database from the database folder . You can find database folder . <br>
 4.	Edit config.php file and set your host , database name , username and password .<br> 
-5.	Execute the code . You can <a href="https://technosmarter.com">contact</a> for any help and support .<br> 
+5.	Execute the code . You can <a href="https://technosmarter.com/contact">contact</a> for any help and support .<br> 
 This is complete source code for comment system in PHP and MYSQL . <br>
 You will get instant reply feature in this comment system in PHP 
  # Developer 
