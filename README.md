@@ -1,5 +1,10 @@
 # Comment and reply system 
-The comment and reply system is used to provide help and support on the post page. Any user can comment on any post or any user can reply to any comment. This comment system is created in PHP, MYSQL, AJAX, JQuery, and Bootstrap. AJAX is used to perform operations without page refresh. jQuery is a JavaScript library that is used to reduce JavaScript code lines. Bootstrap is used to create responsive comment and reply forms. In this comment system, the admin can check all comments on a page, and the admin can delete comments or publish comments by changing the status. 
+The comment and reply system is used to provide help and support on the post page. Any user can comment on any post or any user can reply to any comment. This comment system is created in PHP, MYSQL, AJAX, JQuery, and Bootstrap. AJAX is used to perform operations without page refresh.
+![image](https://user-images.githubusercontent.com/41726733/209445978-8d75f1c9-2c83-4f22-a436-8085c41c724d.png)
+
+jQuery is a JavaScript library that is used to reduce JavaScript code lines. Bootstrap is used to create responsive comment and reply forms. In this comment system, the admin can check all comments on a page, and the admin can delete comments or publish comments by changing the status. 
+![image](https://user-images.githubusercontent.com/41726733/209445985-1695b20d-187b-4c9c-ab4c-491cc2feadf5.png)
+
 Create a comment system in PHP, AJAX, and MYSQL. This is a complete comment and reply system in PHP, AJAX, jQuery, PHP PDO, and MYSQL database.
 Admin moderates every comment and replies “Your comment is awaiting moderation” and “Your reply is awaiting moderation” . 
 # Features 
