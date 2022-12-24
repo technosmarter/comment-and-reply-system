@@ -6,7 +6,7 @@ Admin moderates every comment and replies “Your comment is awaiting moderation
 Comment form. <br>
 Comment on any post . <br>
 Instant reply to any comment. <br>
-Comment moderration. <br>
+Comment moderation. <br>
 Reply moderation. <br> 
 All comments page. <br> 
 All Posts page. <br> 
